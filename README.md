@@ -1,1 +1,0 @@
-# Lista-de-Exercicios-em-Pyhton
